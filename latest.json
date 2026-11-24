@@ -1,0 +1,9 @@
+{
+  "versionCode": 4,
+  "versionName": "0.1.3-debug",
+  "apkUrl": "https://github.com/alumdoors1-pixel/joybit-updates/releases/download/v4/SolitaireParadise-4.apk",
+  "size": 51569524,
+  "sha256": "f1ea143fa701bd77fbf610cccb296dc174c91790e2ae2e81c617bbc9b721ae02",
+  "notes": "Добавлен тестовый канал обновлений Solitaire Paradise. Игра проверяет новые версии в фоне и показывает их описание. Скачанный APK проверяется по размеру, контрольной сумме, пакету и подписи. Установка открывается через системный установщик Android.\n",
+  "packageId": "studio.joybit.solitaireparadise.debug"
+}
